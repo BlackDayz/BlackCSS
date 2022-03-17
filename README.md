@@ -15,7 +15,7 @@
 
 ---
 
-<p align="center">A light weight Library with many usefull css attributes to make styling your website easier.
+<p align="center">A light weight Collection with many usefull CSS3 attributes to make styling your website easier.
     <br> 
 </p>
 
@@ -40,7 +40,7 @@ Implement in your head of your html document
 
 ```html
 <head>
-    <link rel="stylesheet" href="https://www.blackdayz.de/Library/CSS/[VERSION]/BlackCSS.css">
+    <link rel="stylesheet" href="https://blackdayz.github.io/BlackCSS/lib/BlackCSS.css">
 </head>
 ```
 
