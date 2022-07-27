@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=auto height=200px src="https://www.blackdayz.de/src/img/logo/BlackDayzLogo.png" alt="Project logo"></a>
+ <img width=auto height=200px src="https://www.blackdayz.de/img/logo" alt="Project logo"></a>
 </p>
 
 <h1 align="center">BlackCSS</h1>
@@ -40,7 +40,7 @@ Implement in your head of your html document
 
 ```html
 <head>
-    <link rel="stylesheet" href="https://blackdayz.github.io/BlackCSS/lib/BlackCSS.css">
+    <link rel="stylesheet" href="https://blackdayz.de/css/blackcss">
 </head>
 ```
 
